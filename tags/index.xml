@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Wei Chen</title>
+    <link>https://cweiai.hk/tags/</link>
+    <description>Recent content in Tags on Wei Chen</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <managingEditor>cweiai@connect.ust.hk (Wei Chen)</managingEditor>
+    <webMaster>cweiai@connect.ust.hk (Wei Chen)</webMaster>
+    <atom:link href="https://cweiai.hk/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

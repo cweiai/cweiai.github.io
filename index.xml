@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Wei Chen</title>
+        <link>https://cweiai.hk/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>cweiai@connect.ust.hk (Wei Chen)</managingEditor>
+            <webMaster>cweiai@connect.ust.hk (Wei Chen)</webMaster>
+            <atom:link href="https://cweiai.hk/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
